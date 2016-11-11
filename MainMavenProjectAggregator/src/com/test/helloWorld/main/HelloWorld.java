@@ -1,9 +1,17 @@
 package com.test.helloWorld.main;
 
-import com.test.childProjects.connection.*;
 import com.test.util.Constants;
 
+/**
+ * Main class for starting the app
+ * 
+ * @author Tudor
+ *
+ */
 public class HelloWorld {
+
+	private HelloWorld() {
+	}
 
 	public static void main(String[] args) {
 
